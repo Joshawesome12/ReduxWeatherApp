@@ -9,5 +9,5 @@ To get started, clone or fork the repo and then:
 
 ```
 > npm install
-> npm start
+> npm start (running on localhost:8080)
 ```
